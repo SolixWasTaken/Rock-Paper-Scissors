@@ -2,8 +2,8 @@ let humanScore = 0;
 let computerScore = 0;
 
 const CHOICE_ROCK = "rock";
-const CHOICE_PAPER = "rock";
-const CHOICE_SCISSORS = "rock";
+const CHOICE_PAPER = "paper";
+const CHOICE_SCISSORS = "scissors";
 
 let currentRound = 0;
 const MAX_ROUNDS = 5;
